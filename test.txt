@@ -1,1 +1,3 @@
 Hii, This is a demo file to explore git and github
+------------------------------------------------------
+Some changes are made here to know about update in git and github
